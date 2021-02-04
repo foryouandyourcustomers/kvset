@@ -1,4 +1,4 @@
-module github.com/foryouandyourcustomers/kvget
+module github.com/foryouandyourcustomers/kvset
 
 go 1.15
 
